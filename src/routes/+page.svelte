@@ -27,7 +27,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet" />
 
-<h4 class="timer-desc">Young go loud is in</h4>
+<h4 class="timer-desc">Young go loud is over</h4>
 <h2 class="countdown">{days}d {hours}h {minutes}m {seconds}s</h2>
 
 <p>
