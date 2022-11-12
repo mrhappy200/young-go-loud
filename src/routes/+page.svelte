@@ -1,4 +1,4 @@
-<script lang=ts>
+<script lang ts>
 	var days: string = '?';
 	var hours: string = '?';
 	var minutes: string = '?';
@@ -26,14 +26,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet" />
+<div>
+	<h4 class="timer-desc">Young go loud is over</h4>
+	<h2 class="countdown">{days}d {hours}h {minutes}m {seconds}s</h2>
 
-<h4 class="timer-desc">Young go loud is over</h4>
-<h2 class="countdown">{days}d {hours}h {minutes}m {seconds}s</h2>
-
-<p>
-	Dit is een omschrijving van Young go loud, er zit ook een goede reden bij om naar young go loud te
-	gaan. Lorem ipsum dolor sit amet, consectetur adipiscing elit
-</p>
+	<p>
+		Dit is een omschrijving van Young go loud, er zit ook een goede reden bij om naar young go loud
+		te gaan. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+	</p>
+</div>
 
 <h3>Vind ons op de socials</h3>
 <link href="https://css.gg/instagram.css" rel="stylesheet" />
