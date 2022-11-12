@@ -9,6 +9,7 @@
     .top-bar {
         height: 10vh;
         display: flex;
+		margin-bottom: 7vh;
     }
 
     h1 {
