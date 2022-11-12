@@ -1,5 +1,7 @@
 <div class=top-bar>
-    <img style="margin-right: 5%" src="logo.png" alt="young go loud logo">
+	<a style="margin-right: 5%" class=top-bar href="http://example.com">
+		<img style="margin-right: 5%" src="logo.png" alt="young go loud logo">
+	</a>
     <h1 class=glow>Young go loud</h1>
 </div>
 
